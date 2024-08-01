@@ -1,3 +1,16 @@
-body{
-    background: linear-gradient(to right, #a44c4c,#9d1414,#c64e29,#db0707);
+*{
+    margin: 0%;
+    padding: 0%;
 }
+body{
+    background: linear-gradient(to right, #5b7de1,#070707,#ce29ec,#7bf5cb);
+
+}
+    h1{
+     font-size: 70px;
+     text-align: center;   
+
+    }
+    .cabecalho{
+        background-color: #ce29ec;
+    }
