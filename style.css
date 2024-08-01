@@ -13,8 +13,9 @@ body{
     }
     .cabecalho{
         background-color: #cdc7ce;
-        padding: 15px;
+        padding: 30px;
     }
     h2{
+        text-align: center;
 
     }
